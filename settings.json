@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "3ggs.aternos.me:22837",
+    "ip": "trahira.aternos.host:22837",
     "port": 22837,
     "version": "1.21.11",
     "try-creative": false
