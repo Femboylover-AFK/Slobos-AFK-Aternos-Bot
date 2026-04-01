@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Bo",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "3ggs.aternos.me:22837",
+    "port": 22837,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "czy ktoś o mnie pamięta?",
+        "jak coś to mnie niezabijajcie, ja tu jestem po to żeby serwer był online",
+        "lubie kebaby",
+        "250 -34 1700"
       ]
     },
     "chat-log": true,
