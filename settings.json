@@ -1,5 +1,5 @@
 {
-  "name": "cutie patootie",
+  "name": "cutie_patootie",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "3ggs.aternos.me:22837",
     "port": 22837,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
